@@ -12,7 +12,7 @@
 
 ## How to Use
 
-1. Open [Seedraw Web App](https://seedraw.onrender.com) in your browser.  
+1. Open [seedraw Web App](https://seedraw.onrender.com) in your browser.  
 2. Connect your database securely or use the optional MCP server.  
 3. Select the tables and the number of rows to generate.  
 4. Click **Generate**, and Seedraw will populate your database automatically.  
