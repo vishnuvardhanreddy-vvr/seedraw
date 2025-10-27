@@ -64,6 +64,16 @@ db_adapter = DBAdapter()
 # Default HTML page
 current_html_file = "normalUI.html"
 
+@app.get("/health")
+async def health_check():
+    """
+    Health check endpoint to verify that the API is running.
+
+    Returns:
+        dict: Health status message.
+    """
+    return {"status": "ok"}
+
 
 @app.get("/set_ui")
 async def set_ui(filename: str):
