@@ -1,4 +1,4 @@
-# Seedraw
+![seedraw](https://raw.githubusercontent.com/vishnuvardhanreddy-vvr/seedraw/refs/heads/main/static/favicon.png)
 
 **Seedraw** is a web-based tool that **generates realistic, schema-based sample data using AI** and **inserts it directly into your database**. Ideal for developers, testers, and data engineers, Seedraw lets you quickly populate tables for testing, QA, and development without writing any scripts.  
 
